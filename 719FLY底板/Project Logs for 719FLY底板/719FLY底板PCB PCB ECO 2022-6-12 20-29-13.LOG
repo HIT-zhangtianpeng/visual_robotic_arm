@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP 1.5*4*8 New Footprint=CAP 2.0*5*11
+Change Component Footprint: Designator=C4 Old Footprint=CAP 1.5*4*8 New Footprint=CAP 2.0*5*11
+Change Component Footprint: Designator=JP9 Old Footprint=HDR2.54-LI-4P New Footprint=HDR2.54-M-LI-4P
+Change Component Footprint: Designator=JP11 Old Footprint=HDR2.54-LI-4P New Footprint=HDR2.54-M-LI-4P
+Change Component Footprint: Designator=JP12 Old Footprint=HDR2.54-LI-4P New Footprint=HDR2.54-M-LI-4P
+Change Component Footprint: Designator=JP16 Old Footprint=IDC2.54-LI-2x3P New Footprint=HDR2.54-LI-2x3P
+Change Component Footprint: Designator=D3 Old Footprint=LED_A1 New Footprint=LED 0805B
+Change Component Footprint: Designator=D2 Old Footprint=LED_A1 New Footprint=LED 0805G
+Change Component Footprint: Designator=D1 Old Footprint=LED_A1 New Footprint=LED 0805R
+Change Component Footprint: Designator=D? Old Footprint=LED_A1 New Footprint=LED 0805W
+Change Component Footprint: Designator=JP15 Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-LI-2P
+Change Component Footprint: Designator=JP10 Old Footprint=XH2.54-WI-8P New Footprint=HDR2.54-M-LI-10P
+Added Room: Name=719FLYµ×°åÔ­ÀíÍ¼

@@ -1,0 +1,7 @@
+Added Component: Designator=JP15(XH2.54-LI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC5V Pin=JP15-1
+Added Pin To Net: NetName=GND Pin=JP15-2
+Added Member To Class: ClassName=719FLY底板原理图 Member=Component JP15 HDR-1X2
